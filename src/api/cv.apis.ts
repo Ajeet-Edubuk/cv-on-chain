@@ -1,4 +1,3 @@
-import { CvFormDataType } from "@/forms/CvForm";
 import { API_BASE_URL } from "@/main";
 import { Cv_resoponse_type } from "@/types";
 import { useMutation, useQuery } from "react-query";
